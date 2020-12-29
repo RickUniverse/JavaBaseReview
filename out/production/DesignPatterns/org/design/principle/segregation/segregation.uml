@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>org.design.principle.segregation</OriginalElement>
+  <nodes>
+    <node x="0.0" y="138.0">org.design.principle.segregation.A</node>
+    <node x="283.5" y="299.0">org.design.principle.segregation.Test</node>
+    <node x="585.0" y="138.0">org.design.principle.segregation.C</node>
+    <node x="157.00000000000003" y="138.0">org.design.principle.segregation.B</node>
+    <node x="371.0" y="138.0">org.design.principle.segregation.D</node>
+    <node x="533.625" y="0.0">org.design.principle.segregation.interface3</node>
+    <node x="51.375" y="0.0">org.design.principle.segregation.interface2</node>
+    <node x="292.5" y="11.5">org.design.principle.segregation.interface1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.design.principle.segregation.C" target="org.design.principle.segregation.interface3">
+      <point x="34.25" y="-50.5" />
+      <point x="687.75" y="118.0" />
+      <point x="636.375" y="118.0" />
+      <point x="34.25" y="39.0" />
+    </edge>
+    <edge source="org.design.principle.segregation.A" target="org.design.principle.segregation.interface1">
+      <point x="34.25" y="-50.5" />
+      <point x="102.75" y="108.0" />
+      <point x="309.625" y="108.0" />
+      <point x="-51.375" y="27.5" />
+    </edge>
+    <edge source="org.design.principle.segregation.C" target="org.design.principle.segregation.interface1">
+      <point x="-34.25" y="-50.5" />
+      <point x="619.25" y="108.0" />
+      <point x="412.375" y="108.0" />
+      <point x="51.375" y="27.5" />
+    </edge>
+    <edge source="org.design.principle.segregation.A" target="org.design.principle.segregation.interface2">
+      <point x="-34.25" y="-50.5" />
+      <point x="34.25" y="118.0" />
+      <point x="85.625" y="118.0" />
+      <point x="-34.25" y="39.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="361.0" y="177.0" />
+  <SelectedNodes>
+    <node>org.design.principle.segregation.A</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

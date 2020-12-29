@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="renderer" content="webkit">
+<meta name="applicable-device" content="pc,mobile">
+<title>正在播放《罗小黑战记电影》- 草民电影网</title>
+<meta name="Keywords" content="罗小黑战记电影" />
+<meta name="description" content="草民电影网提供罗小黑战记电影免费手机在线观看,罗小黑战记电影剧情介绍,罗小黑战记电影数据海报" />
+<link href="https://cmdycss.shengtaiwenming.com.cn/template/m1938/css/style1.css" rel="stylesheet">
+<script src="https://lib.sinaapp.com/js/jquery/1.4.4/jquery.min.js"></script>
+<script src="https://cmdycss.tjyjj.cn/template/m1938/js/common.js"></script>
+<script src="https://cmdycss.tjyjj.cn/template/m1938/js/function.js"></script>
+<script src="https://cmdycss.tjyjj.cn/template/m1938/js/jquery.lazyload.js"></script>
+<!--[if lt IE 9]>
+<script src="/template/m1938/js/html5shiv.min.js"></script>
+<script src="/template/m1938/js/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+<script>var SitePath='/',SiteAid='16',SiteTid='4',SiteId='48759';</script>
+<div class="header-all">
+  <div class="top clearfix">
+    <ul class="logo"><h1><a href="https://www.cmdy5.com"><img src="https://cmdycss.tjyjj.cn/template/m1938/Images/logo.png" alt="草民电影网"></a></h1></ul>
+    <ul class="top-nav">
+      <li><a class="now" href="https://www.cmdy5.com" >首页</a></li>
+      <!--导航-->
+      
+      <li class="" _t_nav="topnav-1"><a href="https://www.cmdy5.com/dianying.html" >电影<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-2"><a href="https://www.cmdy5.com/lianxuju.html" >连续剧<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-3"><a href="https://www.cmdy5.com/zongyi.html" >综艺<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-4"><a href="https://www.cmdy5.com/dongman.html"  class="on">动漫<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-5"><a href="https://www.cmdy5.com/weipaifuli.html" >微拍<i class="sjbgs"></i><i class="sjbgx"></i></a></li>
+      
+      <li class="" _t_nav="topnav-6"><a href="https://www.cmdy5.com/zhibo.html" rel="nofollow">直播<i class="sjbgs"></i><i class="sjbgx"></i></a></li>  	  
+    </ul>
+	    <ul class="search so">
+      <form action="https://www.cmdy5.com/index.php?m=vod-search" method="post">
+        <input type="text" id="wd" name="wd" class="input" onblur="if(this.value==''){ this.value='请输入影片或演员名';this.style.color='#cfcdcd';}" onfocus="if(this.value=='请输入影片或演员名'){this.value='';this.style.color='';}" value="请输入影片或演员名" />
+        <input type="submit" name="submit" class="imgbt" value="" />
+      </form>
+    </ul>
+    <ul class="nav-qt aa">
+     <li class="bb">
+	  <a href="https://www.cmdy5.com/index.php?m=gbook-show.html"target="_blank" rel="nofollow"><i class="jl"></i>求片留言</a>
+  </li>
+    </ul>
+    <ul class="sj-search">
+      <li class="sbtn2"><i class="sjbg-search"></i></li>
+    </ul>
+    <ul class="sj-nav">
+      <li class="sbtn1"><i class="sjbg-nav"></i></li>
+    </ul>
+    <ul class="sj-navhome">
+      <li><a href="https://www.cmdy5.com/"><i class="sjbg-home"></i></a></li>
+    </ul>  
+  </div>
+  <div class="nav-down clearfix">
+  <!--分类子目录-->
+  
+  <div id="topnav-1" class="nav-down-1" style="display:none;" _t_nav="topnav-1">
+    <div class="nav-down-2 clearfix">
+    <ul>
+           
+      <li><a href="https://www.cmdy5.com/dongzuopian.html">动作片</a></li>
+           
+      <li><a href="https://www.cmdy5.com/xijupian.html">喜剧片</a></li>
+           
+      <li><a href="https://www.cmdy5.com/aiqingpian.html">爱情片</a></li>
+           
+      <li><a href="https://www.cmdy5.com/kehuanpian.html">科幻片</a></li>
+           
+      <li><a href="https://www.cmdy5.com/kongbupian.html">恐怖片</a></li>
+           
+      <li><a href="https://www.cmdy5.com/juqingpian.html">剧情片</a></li>
+           
+      <li><a href="https://www.cmdy5.com/zhanzhengpian.html">战争片</a></li>
+           
+    </ul>
+    </div>
+  </div>
+ 
+  <div id="topnav-2" class="nav-down-1" style="display:none;" _t_nav="topnav-2">
+    <div class="nav-down-2 clearfix">
+    <ul>
+           
+      <li><a href="https://www.cmdy5.com/guochanju.html">国产剧</a></li>
+           
+      <li><a href="https://www.cmdy5.com/xianggangju.html">港台剧</a></li>
+           
+      <li><a href="https://www.cmdy5.com/hanguoiju.html">韩国剧</a></li>
+           
+      <li><a href="https://www.cmdy5.com/ribenju.html">日本剧</a></li>
+           
+      <li><a href="https://www.cmdy5.com/oumeiju.html">欧美剧</a></li>
+           
+    </ul>
+    </div>
+  </div>
+ 
+  <div id="topnav-3" class="nav-down-1" style="display:none;" _t_nav="topnav-3">
+    <div class="nav-down-2 clearfix">
+    <ul>
+           
+    </ul>
+    </div>
+  </div>
+ 
+  <div id="topnav-4" class="nav-down-1" style="display:none;" _t_nav="topnav-4">
+    <div class="nav-down-2 clearfix">
+    <ul>
+           
+      <li><a href="https://www.cmdy5.com/guochandonghuapian.html">国产动漫</a></li>
+           
+      <li><a href="https://www.cmdy5.com/ribendongman.html">日本动漫</a></li>
+           
+      <li><a href="https://www.cmdy5.com/haiwaidongman.html">海外动漫</a></li>
+           
+    </ul>
+    </div>
+  </div>
+ 
+  <div id="topnav-5" class="nav-down-1" style="display:none;" _t_nav="topnav-5">
+    <div class="nav-down-2 clearfix">
+    <ul>
+           
+      <li><a href="https://www.cmdy5.com/weipaiguangchang.html">微拍广场</a></li>
+           
+      <li><a href="https://www.cmdy5.com/weipainvshen.html">微拍女神</a></li>
+           
+    </ul>
+    </div>
+  </div>
+ 
+  <!--分类子目录结束-->
+
+<!--手机版导航-->
+  <div id="sj-nav-1" class="nav-down-1 sy1 sj-noover" style="display:none;" _s_nav="sj-nav-1">
+    <div class="nav-down-2 sj-nav-down-2 clearfix">
+    <ul> 
+      <li><a href="https://www.cmdy5.com/">首页</a></li>
+        
+      <li><a href="https://www.cmdy5.com/dianying.html">电影</a></li>
+        
+      <li><a href="https://www.cmdy5.com/lianxuju.html">连续剧</a></li>
+        
+      <li><a href="https://www.cmdy5.com/zongyi.html">综艺</a></li>
+        
+      <li><a href="https://www.cmdy5.com/dongman.html" class="on">动漫</a></li>
+        
+      <li><a href="https://www.cmdy5.com/weipaifuli.html">微拍</a></li>
+       
+	   
+      <li><a href="https://www.cmdy5.com/dongzuopian.html">动作片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/xijupian.html">喜剧片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/aiqingpian.html">爱情片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/kehuanpian.html">科幻片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/kongbupian.html">恐怖片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/juqingpian.html">剧情片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/zhanzhengpian.html">战争片</a></li>
+        
+      <li><a href="https://www.cmdy5.com/guochanju.html">国产剧</a></li>
+        
+      <li><a href="https://www.cmdy5.com/xianggangju.html">港台剧</a></li>
+        
+      <li><a href="https://www.cmdy5.com/hanguoiju.html">韩国剧</a></li>
+        
+      <li><a href="https://www.cmdy5.com/ribenju.html">日本剧</a></li>
+        
+      <li><a href="https://www.cmdy5.com/oumeiju.html">欧美剧</a></li>
+        
+      <li><a href="https://www.cmdy5.com/guochandonghuapian.html">国产动漫</a></li>
+        
+      <li><a href="https://www.cmdy5.com/ribendongman.html">日本动漫</a></li>
+        
+      <li><a href="https://www.cmdy5.com/haiwaidongman.html">海外动漫</a></li>
+        
+      <li><a href="https://www.cmdy5.com/weipaiguangchang.html">微拍广场</a></li>
+        
+      <li><a href="https://www.cmdy5.com/weipainvshen.html">微拍女神</a></li>
+        
+	  <li><a href="https://www.cmdy5.com/index.php?m=gbook-show.html" rel="nofollow">求片留言</a></li>
+    </ul>
+    </div>
+  </div>
+  <div id="sj-nav-search" class="nav-down-1 sy2 sj-noover" style="display:none;" _t_nav1="sj-nav-search">
+    <div class="nav-down-2 sj-nav-down-search clearfix">
+      <form action="https://www.cmdy5.com/index.php?m=vod-search" method="post">
+        <input type="text" id="wd" name="wd" class="input" onblur="if(this.value==''){ this.value='输入关键词';this.style.color='#cfcdcd';}" onfocus="if(this.value=='输入关键词'){this.value='';this.style.color='';}" value="输入关键词" />
+        <input type="submit" name="submit" class="imgbt" value="搜 索" />
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+<div class="topone clearfix"></div>
+<div class="main">
+<!--/麒麟点击广告-->
+</div>
+    <div class="main"><!--<center>
+	<script type="text/javascript">
+ var system ={win : false,mac : false,xll : false};
+ var p = navigator.platform;
+ system.win = p.indexOf("Win") == 0;
+ system.mac = p.indexOf("Mac") == 0;
+ system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+ if(system.win||system.mac||system.xll){
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/pctb.js\"><\/script>");
+ }else{
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/waptbplay.js\"><\/script>");
+ }
+</script></center>-->
+		<h3 class="title"><a href='/'>首页</a>&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href='/dongman.html' >动漫</a>&nbsp;&nbsp;&raquo;&nbsp;&nbsp;<a href='/dongman/luoxiaoheizhanjidy.html'>罗小黑战记电影</a></h3><font size=3>【无法播放请下载草民APP<a href="https://www.cmdy5.com/js/app.html" target="_blank">（点此下载）</a>】</font><br>
+			<div class="player mb"><div class="main"><script src="/upload/playdata/20190908/48759/48759.js"></script><script src="/js/playerconfig.js"></script><script src="/js/player.js"></script>
+</div>
+			<center>
+<script type="text/javascript">
+ var system ={win : false,mac : false,xll : false};
+ var p = navigator.platform;
+ system.win = p.indexOf("Win") == 0;
+ system.mac = p.indexOf("Mac") == 0;
+ system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+ if(system.win||system.mac||system.xll){
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/pctb2.js\"><\/script>");
+ }else{
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/wapplayad.js\"><\/script>");
+ }
+</script>
+</center></div>
+  <div id="stab1" class="tab-down mb clearfix">
+
+  <div id="stab81" class="playlist clearfix">
+ 	  	<div class="h1 clearfix">
+  		<p class="intro"><font color="#f06000">123酷高速-无法播放请切换通道</font></p>
+  		<p class="jj"><span id="vlink_1_s1"><em onClick="Order(1,'vlink_1',1)">倒序↓</em></span><span id="vlink_1_s2"><em onClick="Order(0,'vlink_1',1)" class="over">顺序↑</em></span></p>
+  	</div>
+	  <div id="vlink_1" class="videourl clearfix"><ul>
+	  
+	  <li><a title='HD高清' href='https://www.cmdy5.com/play/48759.html?48759-1-1' target="_blank">HD高清</a></li>
+	  
+	  </ul></div>
+  </div>
+     
+  </div>
+<center>
+<script type="text/javascript">
+ var system ={win : false,mac : false,xll : false};
+ var p = navigator.platform;
+ system.win = p.indexOf("Win") == 0;
+ system.mac = p.indexOf("Mac") == 0;
+ system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+ if(system.win||system.mac||system.xll){
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/pctb3.js\"><\/script>");
+ }else{
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/waptbplay4.js\"><\/script>");
+ }
+</script>
+</center>
+<div class="cont-banner"> 
+<a href="https://www.cmdy5.com/index.php?m=gbook-show.html" id="tudouWeixinID" rel="nofollow">点击这里报错或者提出您的宝贵意见</a> 
+</div>
+<!--评论-->
+			<!--PC和WAP自适应版-->
+   <div class="index-area clearfix">
+    <h3 class="title index-color">猜你喜欢</h3>
+    <ul>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/haizeiwang.html" title="海贼王" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2018-10/15395079482.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="海贼王" alt="海贼王"><span class="video-bg"></span><span class="lzbz"><p class="name">海贼王</p><p class="actor">田中真弓,冈村明美,中井和哉,平田广明</p><p class="actor">动漫</p><p class="actor">1999/日本</p></span><p class="other"><i>更新至935集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/huoyingrenzheborenchuanzhihuoyingcishidai.html" title="火影忍者博人传之火影次世代" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2019-08/15662996093.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="火影忍者博人传之火影次世代" alt="火影忍者博人传之火影次世代"><span class="video-bg"></span><span class="lzbz"><p class="name">火影忍者博人传之火影次世代</p><p class="actor">三瓶由布子 / 菊池心 / 木岛隆一 / 小野贤章 / 阿部敦 / 早见沙织</p><p class="actor">动漫</p><p class="actor">2017/日本</p></span><p class="other"><i>更新至159集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/luoxiaoheizhanjidy.html" title="罗小黑战记电影" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2019-09/156790842420.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="罗小黑战记电影" alt="罗小黑战记电影"><span class="video-bg"></span><span class="lzbz"><p class="name">罗小黑战记电影</p><p class="actor">罗小黑</p><p class="actor">动漫</p><p class="actor">2019/大陆</p></span><p class="other"><i>HD</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/xinshiji.html" title="石纪元 Dr.STONE" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2019-08/15663232152.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="石纪元 Dr.STONE" alt="石纪元 Dr.STONE"><span class="video-bg"></span><span class="lzbz"><p class="name">石纪元 Dr.STONE</p><p class="actor">小林裕介 / 古川慎 / 市之濑加那 / 中村悠一 / 佐藤元 / 沼仓爱美 / 前野智昭 / 村濑步 / 高桥花林 / 上田丽奈 / 河西健吾 / 麦人</p><p class="actor">动漫</p><p class="actor">2019/日本</p></span><p class="other"><i>24集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/yiquanchaoren2.html" title="一拳超人第二季" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2019-07/201907081562565409.png" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="一拳超人第二季" alt="一拳超人第二季"><span class="video-bg"></span><span class="lzbz"><p class="name">一拳超人第二季</p><p class="actor">古川慎,石川界人,梶裕贵,悠木碧</p><p class="actor">动漫</p><p class="actor">2019/日本</p></span><p class="other"><i>13集全/已完结</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/wanjieshenzhu.html" title="万界神主" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2019-02/154945074418.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="万界神主" alt="万界神主"><span class="video-bg"></span><span class="lzbz"><p class="name">万界神主</p><p class="actor"></p><p class="actor">动漫</p><p class="actor">2019/大陆</p></span><p class="other"><i>更新至108集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/dldl.html" title="斗罗大陆" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2018-12/15436867292.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="斗罗大陆" alt="斗罗大陆"><span class="video-bg"></span><span class="lzbz"><p class="name">斗罗大陆</p><p class="actor">沈磊,翟巍,吴磊,陶典</p><p class="actor">动漫</p><p class="actor">2018/大陆</p></span><p class="other"><i>更新至115集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/zhongjiedechitianshidiyiji.html" title="终结的炽天使第一季" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2020-08/159637448119.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="终结的炽天使第一季" alt="终结的炽天使第一季"><span class="video-bg"></span><span class="lzbz"><p class="name">终结的炽天使第一季</p><p class="actor">入野自由 / 小野贤章 / 中村悠一 / 樱井孝宏 / 早见沙织 </p><p class="actor">动漫</p><p class="actor">2015/日本</p></span><p class="other"><i>12集全/已完结</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/shenchukuanghou.html" title="神厨狂后" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2020-08/15963708642.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="神厨狂后" alt="神厨狂后"><span class="video-bg"></span><span class="lzbz"><p class="name">神厨狂后</p><p class="actor"></p><p class="actor">动漫</p><p class="actor">2020/大陆</p></span><p class="other"><i>更新至02集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/fuzijingchadiyiji.html" title="斧子警察第一季" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2020-08/159637085916.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="斧子警察第一季" alt="斧子警察第一季"><span class="video-bg"></span><span class="lzbz"><p class="name">斧子警察第一季</p><p class="actor">Todd Barry / Ken Marino / Megan Mullally / Tyler the Creator / Giancarlo Esposito</p><p class="actor">动漫</p><p class="actor">2013/美国</p></span><p class="other"><i>12集全/已完结</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/jingfeizhaliezhimowangxueyuan.html" title="经费炸裂之魔王学院" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2020-08/159637084510.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="经费炸裂之魔王学院" alt="经费炸裂之魔王学院"><span class="video-bg"></span><span class="lzbz"><p class="name">经费炸裂之魔王学院</p><p class="actor">being阿漫</p><p class="actor">动漫</p><p class="actor">未知/大陆</p></span><p class="other"><i>更新至02集</i></p></a>
+    </li>
+     
+    <li class="p1 m1"><a class="link-hover" href="https://www.cmdy5.com/dongman/jiamianqishishengren.html" title="假面骑士圣刃" target="_blank"><img onerror="this.src='/template/m1938/Images/load.gif'" class="lazy" data-original="https://cmdycss.tjyjj.cn/upload/vod/2020-08/15963708436.jpg" src="https://cmdycss.shengtaiwenming.com.cn/template/m1938/Images/load2.gif" title="假面骑士圣刃" alt="假面骑士圣刃"><span class="video-bg"></span><span class="lzbz"><p class="name">假面骑士圣刃</p><p class="actor">内藤秀一郎/山口贵也/川津明日香/青木瞭/富樫慧士</p><p class="actor">动漫</p><p class="actor">2020/日本</p></span><p class="other"><i>1集全/已完结</i></p></a>
+    </li>
+    
+    </ul>
+    </div>
+
+</div>
+<!--/底部-->
+<div class="footer clearfix">
+Copyright© 2016-2020 《<a href="https://www.cmdy5.com/">草民电影网</a>手机在线观看》本站所有视频均来自互联网，版权(<a href="/js/bq.html" rel="nofollow">版权声明</a>)归原创者所有。 
+</div>
+<div class="gotop"><a class="gotopbg" href="javascript:;" title="返回顶部"><span style="display:none">返回顶部</span></a></div>
+<!--百度自动提交连接-->
+<div style="display:none"><script type="text/javascript" language="javascript" src="/js/tj.js"></script></div>
+
+
+<script type="text/javascript">
+ var system ={win : false,mac : false,xll : false};
+ var p = navigator.platform;
+ system.win = p.indexOf("Win") == 0;
+ system.mac = p.indexOf("Mac") == 0;
+ system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+ if(system.win||system.mac||system.xll){
+document.writeln("");
+ }else{
+document.writeln("<script type=\"text\/javascript\" language=\"javascript\" src=\"\/js\/waptbplay3.js\"><\/script>");
+ }
+</script>
+<!--//禁止右键-->
+<script type="text/javascript"> document.body.oncontextmenu=document.body.ondragstart= document.body.onselectstart=document.body.onbeforecopy=function(){return false;};
+document.body.onselect=document.body.oncopy=document.body.onmouseup=function(){document.selection.empty();}; </script>
+</body>
+</html>
